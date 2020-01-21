@@ -1,4 +1,5 @@
-//To add,subtract,multiply or divide two numbers
+/* Author:- Priyanshu Bansal
+Github Username :- Priyanshu2001 */
 #include<stdio.h>
 void main()
 {

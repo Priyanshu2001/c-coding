@@ -8,7 +8,7 @@ int main()
     scanf("%d",&y);
     if((y%400==0)||(y%100!=0&&y%4==0)) //Logic for year to be leap
     {
-        printf("The year is leap yera");
+        printf("The year is leap year");
     }
     else
     {
